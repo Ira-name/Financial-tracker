@@ -1,0 +1,11 @@
+name,email,password,amout,description,date,payment_method,title_currency,title_categories,title_type
+Iryna,irynakrush@gmail.com,1234,500,products for making a cake,2023-11-06,cash,UAH,food,purchase
+Iryna,irynakrush@gmail.com,1234,20,cleaning products for the dormitory,2023-10-01,card,UAH,everyday life,transfer
+Iryna,irynakrush@gmail.com,1234,2000,scholarship,2023-10-17,card,UAH,education,income
+Iryna,irynakrush@gmail.com,1234,300,vision test consultation,2023-11-03,card,UAH,health,payment
+Iryna,irynakrush@gmail.com,1234,1666,payment for a flat,2023-11-01,card,UAH,dwelling,payment
+Iryna,irynakrush@gmail.com,1234,1000,trip home,2023-10-11,cash,UAH,transport,payment
+Iryna,irynakrush@gmail.com,1234,550,a gift for Kateryna's birthday,2023-12-02,cash,UAH,leisure,purchase
+Iryna,irynakrush@gmail.com,1234,450,products,2023-12-09,card,UAH,food,purchase
+Stepan,stepanko@gmail.com,5678,4000,car repair,2023-10-05,card,UAH,transport,payment
+Stepan,stepanko@gmail.com,5678,500,concert tickets,2023-12-10,card,UAH,entertainment,payment
